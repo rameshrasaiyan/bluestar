@@ -1,0 +1,7 @@
+<?php
+/**
+ * @file
+ * Code for the thbluestar01_strongarm feature.
+ */
+
+include_once 'thbluestar01_strongarm.features.inc';
